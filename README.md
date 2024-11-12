@@ -1,5 +1,7 @@
 # What I learned ?
 
+This task from : https://roadmap.sh/projects/expense-tracker 
+
 During the development of this project, I learned a great deal about working with file I/O (using JSON and CSV formats), data validation (ensuring that amounts and other inputs are valid), and how to structure an application with modular code. Additionally, I learned how to build a command-line interface and handle user input through the terminal.
 
 I also had to implement error handling effectively, ensuring that invalid inputs (e.g., negative amounts, non-existent expense IDs) are managed gracefully. One of the most useful lessons was how to balance functionality and user experience — for example, by warning the user when the budget is exceeded and providing helpful feedback throughout the process.
